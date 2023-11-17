@@ -1,3 +1,3 @@
-### Hi there 👋
+Armond Schneider
 
 user interface designer and iOS developer 
