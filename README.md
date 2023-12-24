@@ -1,6 +1,6 @@
 **Armond Schneider**
 
-[Instagram]([https://www.google.com](http://instagram.com/armondxyz/)), [X]([https://www.google.com]([http://instagram.com/armondxyz/](https://x.com/armondxyz)),
+[Instagram](http://instagram.com/armondxyz/), [X](https://x.com/armondxyz),
 
 user interface designer and iOS developer 
 
