@@ -1,7 +1,7 @@
 **Armond Schneider**
 
-[Instagram](http://instagram.com/armondxyz/), [X](https://x.com/armondxyz), [LinkedIn](https://www.linkedin.com/in/armondschneider/), [ReadCV](https://read.cv/armond)
+product designer and design engineer
 
-user interface designer and iOS developer 
+[Instagram](http://instagram.com/armondme/), [Threads](https://www.threads.net/@armondme), [X](https://x.com/armondme), [LinkedIn](https://www.linkedin.com/in/armondschneider/), [ReadCV](https://read.cv/armond)
 
-building affirquotes: a quote and affirmations app & ergo: a beautiful to-do list
+creating swift ui kits and also some apps 🥳
