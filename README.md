@@ -1,9 +1,8 @@
-**hey there 👋**
+### hey there 👋
 
-I'm Armond
-a product designer and design engineer creating swift ui kits and also some apps 🥳
+I'm Armond <br/> a product designer and design engineer creating swift ui kits and also some apps 🥳
 
-find me on
+### find me on
 - 🧑‍💻 [armond.me](https://armond.me)
 - 🦩 [Twitter](https://x.com/armondme)
 - 🌱 [LinkedIn](https://www.linkedin.com/in/armondschneider/)
