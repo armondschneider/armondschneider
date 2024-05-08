@@ -1,7 +1,12 @@
-**Armond Schneider**
+**hey there 👋**
 
-product designer and design engineer
+I'm Armond
+a product designer and design engineer creating swift ui kits and also some apps 🥳
 
-[Instagram](http://instagram.com/armondme/), [Threads](https://www.threads.net/@armondme), [X](https://x.com/armondme), [LinkedIn](https://www.linkedin.com/in/armondschneider/), [ReadCV](https://read.cv/armond)
-
-creating swift ui kits and also some apps 🥳
+find me on
+🧑‍💻 [armond.me](https://armond.me)
+🦩 [Twitter](https://x.com/armondme)
+🌱 [LinkedIn](https://www.linkedin.com/in/armondschneider/)
+🧵 [Threads](https://www.threads.net/@armondme)
+📄 [readCV](https://read.cv/armond)
+📬 [Email](mailto:armondschneider@gmail.com)
